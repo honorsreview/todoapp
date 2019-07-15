@@ -1,0 +1,18 @@
+{
+  "name": "ToDoListApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.c8430ad903b9e66e27a60d28309f782d.js",
+  "scripts": {
+    "start": "electron app.js",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.6",
+    "electron-builder": "^21.0.15"
+  }
+}
